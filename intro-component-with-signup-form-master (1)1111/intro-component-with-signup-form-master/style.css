@@ -1,0 +1,52 @@
+body{background-color: hsl(0, 100%, 74%); color: white;font-family: 'Poppins', sans-serif;}
+
+h1 {font-size: 45px;width:35%;font-family: 'Poppins', sans-serif;}
+h6{color:#ccc; margin-left: 60px;}
+.top-p{width: 40%;}
+.top-container{position: absolute; top: 300px; left: 250px;}
+
+.text {background-color: white; border-radius: 5px; width: 500px; height: 500px; position: absolute;right: 200px;top:200px;}
+.myButton {
+  position: absolute;
+  top: 140px;
+  right: 200px;
+	background-color:#5f55a5;
+	border-radius:6px;
+	border:1px solid #5f55a5;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:14px;
+	padding:16px 130px;
+	text-decoration:none;
+}
+.myButton:hover {
+	background-color:#5f55a5;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.myButton1 {
+  margin-left: 30px;
+	background-color:#38cc8c;
+	border-radius:6px;
+	border:1px solid #38cc8c;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:12px;
+	padding:17px 146px;
+	text-decoration:none;
+}
+.myButton1:hover {
+	background-color:#38cc8c;
+}
+.myButton1:active {
+	position:relative;
+	top:1px;
+}
+.footer-p{color: red;position: absolute;top: 373px;right: 65px;}
